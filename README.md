@@ -10,6 +10,6 @@ Lindocode Digital is a web development and digital solutions company focused on 
 
 👉 [Digital Hub](https://lindocode.com/digitalhub)
 
-## 💼 Services
+## 💼 Projects
 
 👉 [Web Development Projects](https://lindocode.com/projects)
