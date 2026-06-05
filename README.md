@@ -53,6 +53,10 @@
 
 ## 🚀 Platforms
 
+👉 [LazyReader Official Page](https://lazyreader.lindocode.com)
+
+👉 [LazyAuthor](https://lazyauthor.lindocode.com)
+
 👉 [Digital Hub](https://lindocode.com/digitalhub)
 
 <br>
